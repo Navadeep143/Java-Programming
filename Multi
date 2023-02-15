@@ -1,0 +1,14 @@
+class Multi
+{
+public static void main(String[] args)
+{
+int N = 5;
+int range = 8;
+int i = 1;
+while (i <= range)
+{
+System.out.println(N + " * " + i + " = "+ N * i);
+i++;
+}
+}
+}
